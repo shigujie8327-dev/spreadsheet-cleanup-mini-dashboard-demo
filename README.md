@@ -1,5 +1,7 @@
 # Spreadsheet Cleanup + Mini Dashboard
 
+**Have a messy spreadsheet? I can clean one small business CSV/Excel file and return a simple mini dashboard within 24 hours.**
+
 ## What this is
 
 I clean one messy business spreadsheet and turn it into a clean file plus a simple mini dashboard with 3-5 useful metrics.
@@ -28,7 +30,7 @@ This is a small pilot service for people who already use Excel, CSV exports, or 
 
 ## Demo
 
-This is a simulated demo. It does not use real client data, and it is not a real client case study.
+This is a simulated demo. It does not use real client data, does not include private customer information, and is not a real client case study.
 
 Demo files:
 
@@ -107,14 +109,16 @@ The cleaned file shows what a simple cleanup pass can do:
 
 ### Data Quality Issues Fixed
 
-- Inconsistent date formats
-- Extra spaces
-- Text casing issues
-- Payment status spelling
-- Wrong totals
-- Missing values
-- Duplicate orders
-- Messy notes
+| Issue Type | What Was Fixed |
+| --- | --- |
+| Inconsistent date formats | Standardized dates to `YYYY-MM-DD`. |
+| Extra spaces | Trimmed leading and trailing spaces in text fields. |
+| Text casing issues | Standardized product, category, country, and status labels. |
+| Payment status spelling | Normalized values such as `PAID`, `paid`, `notpaid`, and `un paid`. |
+| Wrong totals | Recalculated totals from `quantity x unit_price`. |
+| Missing values | Marked or handled missing values clearly. |
+| Duplicate orders | Marked duplicate rows and excluded them from dashboard totals. |
+| Messy notes | Cleaned notes without inventing new information. |
 
 ## What you get
 
@@ -129,7 +133,7 @@ Standard pilot price: USD $25
 
 Early pilot option:
 
-For the first few testers, I can accept USD $5-$10 to validate the service.
+USD $5-$10 for the first few testers while I validate the service.
 
 ## Turnaround
 
