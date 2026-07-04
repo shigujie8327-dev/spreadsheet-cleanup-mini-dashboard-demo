@@ -42,7 +42,7 @@
 当前 README 已替换为：
 
 - GitHub: `https://github.com/shigujie8327-dev`
-- Email: `shigujie8327@gmail.com`
+- Email: `wz9108@hotmail.com`
 - LinkedIn: `https://www.linkedin.com/in/jay-shi-60a07631/`
 
 Contact 信息已补齐。后续如果更换专用 business email，需要同步更新 README 和外联文案。

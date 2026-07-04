@@ -176,5 +176,5 @@ Not included:
 ## Contact
 
 GitHub: https://github.com/shigujie8327-dev  
-Email: shigujie8327@gmail.com  
+Email: wz9108@hotmail.com  
 LinkedIn: https://www.linkedin.com/in/jay-shi-60a07631/
