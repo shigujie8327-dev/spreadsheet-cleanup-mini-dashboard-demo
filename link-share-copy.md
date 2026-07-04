@@ -7,7 +7,7 @@ Hi [Name],
 
 I saw [specific context about their business/store/product]. I am testing a small spreadsheet cleanup service for people who manage business data in Excel, CSV exports, or Google Sheets.
 
-Here is a short simulated demo of the before/after: [GitHub demo link]
+Here is a short simulated demo of the before/after: https://github.com/shigujie8327-dev/spreadsheet-cleanup-mini-dashboard-demo
 
 It shows a messy sales CSV, a cleaned version, and a simple mini dashboard. It is not a client case study, just an example of the output format.
 
@@ -25,7 +25,7 @@ I am validating a small service for business owners who have one messy spreadshe
 
 The service is simple: I clean one Excel/CSV/Google Sheet and return a cleaned file plus a mini dashboard with 3-5 practical metrics.
 
-Here is a simulated demo: [GitHub demo link]
+Here is a simulated demo: https://github.com/shigujie8327-dev/spreadsheet-cleanup-mini-dashboard-demo
 
 The demo uses sample data, not real client data. It shows the kind of cleanup and dashboard summary I can deliver.
 
@@ -40,7 +40,7 @@ If this is relevant, send me one messy spreadsheet sample and tell me what you w
 ```text
 If your issue is mainly a messy CSV/Excel/Google Sheet rather than needing a full app, I am testing a small spreadsheet cleanup service.
 
-Here is a simulated demo of the output format: [GitHub demo link]
+Here is a simulated demo of the output format: https://github.com/shigujie8327-dev/spreadsheet-cleanup-mini-dashboard-demo
 
 It shows a messy sales CSV, the cleaned version, and a simple dashboard summary. It is not a client case study and does not use real customer data.
 
@@ -49,7 +49,7 @@ The pilot is USD $25 for one small spreadsheet, with a 24-hour turnaround after 
 
 ## Usage Notes
 
-- Replace `[GitHub demo link]` before sending.
+- The GitHub demo link has been inserted: `https://github.com/shigujie8327-dev/spreadsheet-cleanup-mini-dashboard-demo`.
 - Add one specific line showing why the message is relevant to the person or thread.
 - Do not post in communities that ban self-promotion.
 - Do not send the same message repeatedly.
