@@ -1,0 +1,53 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price,total_amount,payment_status,country,notes,duplicate_status,cleaning_notes
+O-1001,2026-06-01,Alice Smith,Notebook,Stationery,3,12.00,36.00,Paid,USA,Shipped ok,unique,Date standardized; text trimmed; total recalculated
+O-1002,2026-06-01,Bob Lee,Water Bottle,Accessories,2,18.50,37.00,Unpaid,Canada,Awaiting payment,unique,Date standardized; status standardized
+O-1003,2026-06-02,Maria Garcia,Coffee Beans,Grocery,1,24.00,24.00,Paid,USA,Repeat buyer,unique,Date standardized; text case standardized
+O-1004,2026-06-02,Chen Wei,Desk Lamp,Home Office,1,45.00,45.00,Paid,Singapore,Urgent,unique,Date standardized; text trimmed
+O-1005,2026-06-03,Aisha Khan,USB Cable,Electronics,4,6.50,26.00,Paid,UK,Bulk order,unique,Total recalculated from quantity x unit_price
+O-1006,2026-06-03,Liam Brown,Mouse Pad,Accessories,2,9.00,18.00,Pending,USA,Check address,unique,Date and category standardized
+O-1007,2026-06-04,Emma Wilson,Ceramic Mug,Kitchen,5,8.00,40.00,Paid,Australia,Gift note messy,unique,Date standardized
+O-1008,2026-06-04,Noah Davis,Notebook,Stationery,2,12.00,24.00,Paid,USA,Duplicate appears later,unique,Kept first occurrence; duplicate marked below
+O-1009,2026-06-05,Olivia Martin,Desk Organizer,Home Office,1,32.00,32.00,Unpaid,Canada,No response,unique,Date standardized; status standardized
+O-1010,2026-06-05,Ethan Clark,Tea Box,Grocery,3,14.00,42.00,Paid,UK,OK,unique,Date standardized
+O-1011,2026-06-06,Sophia Hall,Laptop Stand,Electronics,1,39.00,39.00,Paid,USA,,unique,No note supplied
+O-1012,2026-06-06,Mason Young,Sticky Notes,Stationery,10,2.50,25.00,Paid,USA,Total looks wrong,unique,Total recalculated from quantity x unit_price
+O-1013,2026-06-07,Isabella King,Tote Bag,Accessories,2,16.00,32.00,Refunded,Australia,Returned item,unique,Status standardized
+O-1014,2026-06-07,Lucas Scott,Coffee Beans,Grocery,2,24.00,48.00,Paid,Canada,Paid late,unique,Date standardized
+O-1015,2026-06-08,Mia Green,Phone Stand,Electronics,3,11.00,33.00,Paid,Singapore,Clean,unique,Status standardized
+O-1016,2026-06-08,James Adams,Ceramic Mug,Kitchen,1,8.00,8.00,Unpaid,USA,Customer said later,unique,Status standardized from not paid
+O-1017,2026-06-09,Charlotte Baker,Planner,Stationery,2,21.00,42.00,Paid,UK,Send invoice,unique,Date standardized
+O-1018,2026-06-09,Benjamin Nelson,Desk Lamp,Home Office,2,45.00,90.00,Paid,USA,,unique,No note supplied
+O-1019,2026-06-10,Amelia Carter,Water Bottle,Accessories,1,18.50,18.50,Paid,Canada,OK,unique,Status standardized
+O-1020,2026-06-10,Henry Mitchell,Keyboard,Electronics,1,55.00,55.00,Pending,USA,Payment link sent,unique,Status standardized
+O-1021,2026-06-11,Evelyn Perez,Tea Box,Grocery,2,14.00,28.00,Paid,Mexico,Duplicate appears later,unique,Kept first occurrence; duplicate marked below
+O-1022,2026-06-11,Daniel Roberts,Notebook,Stationery,5,12.00,60.00,Paid,USA,OK,unique,Date standardized
+O-1023,2026-06-12,Harper Turner,Desk Organizer,Home Office,2,32.00,64.00,Unpaid,UK,Total off by 1,unique,Total recalculated from quantity x unit_price
+O-1024,2026-06-12,Michael Phillips,USB Cable,Electronics,6,6.50,39.00,Paid,Canada,,unique,No note supplied
+O-1025,2026-06-13,Ella Campbell,Mouse Pad,Accessories,3,9.00,27.00,Paid,USA,Fast ship,unique,Status standardized
+O-1026,2026-06-13,Jacob Parker,Coffee Beans,Grocery,1,24.00,24.00,Refunded,Australia,Duplicate refund note,unique,Status standardized
+O-1027,2026-06-14,Sofia Evans,Ceramic Mug,Kitchen,4,8.00,32.00,Paid,USA,Country had extra spaces,unique,Country trimmed
+O-1028,2026-06-14,William Edwards,Laptop Stand,Electronics,2,39.00,78.00,Paid,UK,OK,unique,Product and category standardized
+O-1029,2026-06-15,Grace Collins,Planner,Stationery,1,21.00,21.00,Pending,Canada,Waiting,unique,Date standardized
+O-1030,2026-06-15,Alexander Stewart,Tote Bag,Accessories,3,16.00,48.00,Paid,USA,No issue,unique,Date standardized
+O-1031,2026-06-16,Zoe Sanchez,Phone Stand,Electronics,1,11.00,11.00,Unpaid,Mexico,Missing category,unique,Category inferred from product; status standardized
+O-1032,2026-06-16,Jack Morris,Desk Lamp,Home Office,1,45.00,45.00,Paid,Singapore,,unique,No note supplied
+O-1033,2026-06-17,Lily Rogers,Tea Box,Grocery,4,14.00,56.00,Paid,USA,OK,unique,Status standardized
+O-1034,2026-06-17,Logan Reed,Notebook,Stationery,2,12.00,24.00,Paid,UK,OK,unique,Date standardized
+O-1035,2026-06-18,Aria Cook,Keyboard,Electronics,1,55.00,55.00,Paid,USA,Total wrong,unique,Total recalculated from quantity x unit_price
+O-1036,2026-06-18,Carter Morgan,Water Bottle,Accessories,2,18.50,37.00,Pending,Canada,Hold,unique,Date standardized
+O-1037,2026-06-19,Nora Bell,Sticky Notes,Stationery,8,2.50,20.00,Paid,USA,OK,unique,Product standardized
+O-1038,2026-06-19,Ryan Murphy,Desk Organizer,Home Office,1,32.00,32.00,Paid,Australia,OK,unique,Date standardized
+O-1039,2026-06-20,Unknown Customer,USB Cable,Electronics,2,6.50,13.00,Unpaid,UK,Missing customer name,unique,Missing customer name filled as Unknown Customer
+O-1040,2026-06-20,Owen Rivera,Coffee Beans,Grocery,3,24.00,72.00,Paid,USA,Good customer,unique,Status standardized
+O-1041,2026-06-21,Chloe Cooper,Ceramic Mug,Kitchen,2,8.00,16.00,Paid,Canada,,unique,No note supplied
+O-1042,2026-06-21,Leo Richardson,Planner,Stationery,3,21.00,63.00,Paid,USA,OK,unique,Date standardized
+O-1043,2026-06-22,Layla Cox,Laptop Stand,Electronics,1,39.00,39.00,Pending,Singapore,Waiting approval,unique,Status standardized
+O-1044,2026-06-22,Isaac Ward,Mouse Pad,Accessories,5,9.00,45.00,Paid,USA,OK,unique,Date standardized
+O-1045,2026-06-23,Victoria Torres,Tote Bag,Accessories,1,16.00,16.00,Paid,Mexico,OK,unique,Date standardized
+O-1046,2026-06-23,Julian Peterson,Desk Lamp,Home Office,2,45.00,90.00,Paid,Canada,Large order,unique,Status standardized
+O-1047,2026-06-24,Stella Gray,Tea Box,Grocery,1,14.00,14.00,Unpaid,USA,No payment yet,unique,Status standardized from notpaid
+O-1048,2026-06-24,Gabriel Ramirez,Phone Stand,Electronics,4,11.00,44.00,Paid,UK,OK,unique,Date standardized
+O-1049,2026-06-25,Aurora James,Notebook,Stationery,1,12.00,12.00,Paid,Australia,,unique,No note supplied
+O-1050,2026-06-25,Mateo Brooks,Keyboard,Electronics,2,55.00,110.00,Paid,USA,Clean,unique,No cleanup needed
+O-1008,2026-06-04,Noah Davis,Notebook,Stationery,2,12.00,24.00,Paid,USA,Duplicate row with wrong total,duplicate_excluded,Duplicate order_id; excluded from dashboard totals
+O-1021,2026-06-11,Evelyn Perez,Tea Box,Grocery,2,14.00,28.00,Paid,Mexico,Duplicate row,duplicate_excluded,Duplicate order_id; excluded from dashboard totals

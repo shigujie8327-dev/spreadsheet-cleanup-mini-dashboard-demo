@@ -1,0 +1,53 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price,total_amount,payment_status,country,notes
+ O-1001 ,6/1/26, Alice Smith , notebook , stationery,3,12,35,PAID, usa , shipped ok
+O-1002,2026-06-01,Bob Lee,Water bottle,Accessories,2,18.5,37,unpaid,Canada, awaiting payment
+O-1003,June 2 2026,Maria Garcia,COFFEE BEANS,grocery,1,24,24,paid,USA, repeat buyer 
+O-1004,02-06-2026, Chen Wei,Desk lamp,Home office,1,45,45,Paid,Singapore, urgent
+O-1005,2026/06/03,Aisha Khan, USB cable , electronics,4,6.5,29,PAID, uk, bulk order
+O-1006,6-3-2026,Liam Brown,mouse pad, accessories ,2,9,18,pending,USA, check address
+O-1007,2026.06.04,Emma Wilson,Ceramic Mug,kitchen,5,8,40,paid ,Australia, gift note messy
+O-1008,04/06/2026,Noah Davis,Notebook,Stationery,2,12,24,paid,USA, duplicate appears later
+O-1009,2026-6-5,Olivia Martin,Desk Organizer,Home Office,1,32,32,UNPAID, Canada , no response
+O-1010,05 Jun 2026,Ethan Clark,Tea Box,Grocery,3,14,42,paid,UK, ok
+O-1011,2026-06-06,Sophia Hall,Laptop Stand,Electronics,1,39,39,paid,USA, 
+O-1012,06/06/2026,Mason Young,Sticky Notes,stationery,10,2.5,20,paid,USA, total looks wrong
+O-1013,2026/6/7,Isabella King,Tote Bag,Accessories,2,16,32,refunded,Australia, returned item
+O-1014,07-06-2026,Lucas Scott,Coffee Beans,Grocery,2,24,48,Paid,Canada, paid late
+O-1015,2026-06-08,Mia Green,Phone Stand,Electronics,3,11,33,PAID,Singapore, clean
+O-1016,6/8/2026,James Adams,Ceramic mug,Kitchen,1,8,8,not paid,USA, customer said later
+O-1017,2026.06.09,Charlotte Baker,Planner,Stationery,2,21,42,paid,UK, send invoice
+O-1018,09 Jun 2026,Benjamin Nelson,Desk Lamp,Home Office,2,45,90,paid,USA, 
+O-1019,2026-06-10,Amelia Carter,Water Bottle,Accessories,1,18.5,18.5,PAID,Canada, ok
+O-1020,10/06/2026,Henry Mitchell,Keyboard,Electronics,1,55,55,Pending,USA, payment link sent
+O-1021,2026/06/11,Evelyn Perez,Tea box,grocery,2,14,28,paid,Mexico, duplicate appears later
+O-1022,11-06-2026,Daniel Roberts,Notebook,Stationery,5,12,60,paid,USA, ok
+O-1023,2026-06-12,Harper Turner,Desk organizer,Home office,2,32,65,Unpaid,UK, total off by 1
+O-1024,12 Jun 2026,Michael Phillips,USB Cable,Electronics,6,6.5,39,paid,Canada, 
+O-1025,2026.06.13,Ella Campbell,Mouse Pad,Accessories,3,9,27,PAID,USA, fast ship
+O-1026,06/13/26,Jacob Parker,Coffee Beans,Grocery,1,24,24,Refunded,Australia, duplicate refund note
+O-1027,2026-06-14,Sofia Evans,Ceramic Mug,Kitchen,4,8,32,paid, USA , country has spaces
+O-1028,14-06-2026,William Edwards,Laptop stand,electronics,2,39,78,paid,UK, ok
+O-1029,2026/6/15,Grace Collins,Planner,Stationery,1,21,21,pending,Canada, waiting
+O-1030,June 15 2026,Alexander Stewart,Tote Bag,Accessories,3,16,48,Paid,USA, no issue
+O-1031,2026-06-16,Zoe Sanchez,Phone Stand,,1,11,11,un paid,Mexico, missing category
+O-1032,16/06/2026,Jack Morris,Desk Lamp,Home Office,1,45,45,paid,Singapore, 
+O-1033,2026.06.17,Lily Rogers,Tea Box,Grocery,4,14,56,PAID,USA, ok
+O-1034,17 Jun 2026,Logan Reed,Notebook,Stationery,2,12,24,paid,UK, ok
+O-1035,2026-06-18,Aria Cook,Keyboard,Electronics,1,55,50,paid,USA, total wrong
+O-1036,6/18/2026,Carter Morgan,Water Bottle,Accessories,2,18.5,37,pending,Canada, hold
+O-1037,2026/06/19,Nora Bell,Sticky notes,Stationery,8,2.5,20,paid,USA, ok
+O-1038,19-06-2026,Ryan Murphy,Desk Organizer,Home Office,1,32,32,paid,Australia, ok
+O-1039,2026-06-20,,USB Cable,Electronics,2,6.5,13,unpaid,UK, missing customer name
+O-1040,20 Jun 2026,Owen Rivera,Coffee Beans,Grocery,3,24,72,PAID,USA, good customer
+O-1041,2026.06.21,Chloe Cooper,Ceramic Mug,Kitchen,2,8,16,paid,Canada, 
+O-1042,21/06/2026,Leo Richardson,Planner,Stationery,3,21,63,paid,USA, ok
+O-1043,2026-06-22,Layla Cox,Laptop Stand,Electronics,1,39,39,pending,Singapore, waiting approval
+O-1044,22-06-2026,Isaac Ward,Mouse Pad,Accessories,5,9,45,paid,USA, ok
+O-1045,2026/06/23,Victoria Torres,Tote Bag,Accessories,1,16,16,paid,Mexico, ok
+O-1046,June 23 2026,Julian Peterson,Desk Lamp,Home Office,2,45,90,PAID,Canada, large order
+O-1047,2026-06-24,Stella Gray,Tea Box,Grocery,1,14,14,notpaid,USA, no payment yet
+O-1048,24/06/2026,Gabriel Ramirez,Phone Stand,Electronics,4,11,44,paid,UK, ok
+O-1049,2026.06.25,Aurora James,Notebook,Stationery,1,12,12,PAID,Australia, 
+O-1050,25 Jun 2026,Mateo Brooks,Keyboard,Electronics,2,55,110,paid,USA, clean
+O-1008,2026-06-04, Noah Davis , notebook,stationery,2,12,20,PAID, USA, DUPLICATE row with wrong total
+O-1021,11 Jun 2026,Evelyn Perez,TEA BOX,Grocery,2,14,28,Paid,Mexico, duplicate row
